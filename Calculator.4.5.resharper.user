@@ -1,0 +1,221 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="1B4F8EB5-A068-40D9-B2CB-55483B3D3049/f:App.xaml.cs" caret="216" fromTop="10" />
+      <File id="1B4F8EB5-A068-40D9-B2CB-55483B3D3049/d:ViewModels/f:ViewModelBase.cs" caret="0" fromTop="0" />
+      <File id="1B4F8EB5-A068-40D9-B2CB-55483B3D3049/d:Views/f:MainView.xaml" caret="0" fromTop="0" />
+      <File id="1B4F8EB5-A068-40D9-B2CB-55483B3D3049/d:Views/f:MainView.xaml.cs" caret="0" fromTop="0" />
+      <File id="57FF07E1-837C-4A33-BBEC-0436B670C4C5/f:CalculatorModelTest.cs" caret="7763" fromTop="29" />
+      <File id="1B4F8EB5-A068-40D9-B2CB-55483B3D3049/d:Commands/f:CommandReference.cs" caret="990" fromTop="27" />
+      <File id="1B4F8EB5-A068-40D9-B2CB-55483B3D3049/d:Commands/f:DelegateCommand.cs" caret="6405" fromTop="29" />
+      <File id="1B4F8EB5-A068-40D9-B2CB-55483B3D3049/d:Models/f:CalculationModel.cs" caret="3453" fromTop="112" />
+      <File id="1B4F8EB5-A068-40D9-B2CB-55483B3D3049/d:ViewModels/f:MainViewModel.cs" caret="6057" fromTop="6" />
+      <File id="57FF07E1-837C-4A33-BBEC-0436B670C4C5/f:MainViewModelTest.cs" caret="136" fromTop="6" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="57FF07E1-837C-4A33-BBEC-0436B670C4C5/f:CalculatorModelTest.cs" caret="6648" fromTop="23" />
+      <File id="57FF07E1-837C-4A33-BBEC-0436B670C4C5/f:CalculatorModelTest.cs" caret="6796" fromTop="27" />
+      <File id="1B4F8EB5-A068-40D9-B2CB-55483B3D3049/d:Views/f:MainView.xaml.cs" caret="111" fromTop="4" />
+      <File id="1B4F8EB5-A068-40D9-B2CB-55483B3D3049/d:Views/f:MainView.xaml.cs" caret="0" fromTop="0" />
+      <File id="57FF07E1-837C-4A33-BBEC-0436B670C4C5/f:MainViewModelTest.cs" caret="2355" fromTop="23" />
+      <File id="57FF07E1-837C-4A33-BBEC-0436B670C4C5/f:MainViewModelTest.cs" caret="1886" fromTop="3" />
+      <File id="1B4F8EB5-A068-40D9-B2CB-55483B3D3049/d:ViewModels/f:MainViewModel.cs" caret="4267" fromTop="24" />
+      <File id="1B4F8EB5-A068-40D9-B2CB-55483B3D3049/d:ViewModels/f:MainViewModel.cs" caret="6003" fromTop="10" />
+      <File id="1B4F8EB5-A068-40D9-B2CB-55483B3D3049/d:ViewModels/f:MainViewModel.cs" caret="7234" fromTop="13" />
+      <File id="57FF07E1-837C-4A33-BBEC-0436B670C4C5/f:MainViewModelTest.cs" caret="3357" fromTop="26" />
+      <File id="57FF07E1-837C-4A33-BBEC-0436B670C4C5/f:MainViewModelTest.cs" caret="3337" fromTop="23" />
+      <File id="57FF07E1-837C-4A33-BBEC-0436B670C4C5/f:MainViewModelTest.cs" caret="2879" fromTop="10" />
+      <File id="57FF07E1-837C-4A33-BBEC-0436B670C4C5/f:MainViewModelTest.cs" caret="3160" fromTop="21" />
+      <File id="57FF07E1-837C-4A33-BBEC-0436B670C4C5/f:MainViewModelTest.cs" caret="3073" fromTop="17" />
+      <File id="57FF07E1-837C-4A33-BBEC-0436B670C4C5/f:MainViewModelTest.cs" caret="3446" fromTop="29" />
+      <File id="57FF07E1-837C-4A33-BBEC-0436B670C4C5/f:MainViewModelTest.cs" caret="4474" fromTop="21" />
+      <File id="57FF07E1-837C-4A33-BBEC-0436B670C4C5/f:MainViewModelTest.cs" caret="3575" fromTop="2" />
+      <File id="57FF07E1-837C-4A33-BBEC-0436B670C4C5/f:MainViewModelTest.cs" caret="5064" fromTop="6" />
+      <File id="57FF07E1-837C-4A33-BBEC-0436B670C4C5/f:MainViewModelTest.cs" caret="5338" fromTop="14" />
+      <File id="57FF07E1-837C-4A33-BBEC-0436B670C4C5/f:MainViewModelTest.cs" caret="5770" fromTop="27" />
+      <File id="57FF07E1-837C-4A33-BBEC-0436B670C4C5/f:MainViewModelTest.cs" caret="5810" fromTop="25" />
+      <File id="57FF07E1-837C-4A33-BBEC-0436B670C4C5/f:MainViewModelTest.cs" caret="2466" fromTop="47" />
+      <File id="57FF07E1-837C-4A33-BBEC-0436B670C4C5/f:MainViewModelTest.cs" caret="5994" fromTop="16" />
+      <File id="57FF07E1-837C-4A33-BBEC-0436B670C4C5/f:MainViewModelTest.cs" caret="6955" fromTop="19" />
+      <File id="57FF07E1-837C-4A33-BBEC-0436B670C4C5/f:MainViewModelTest.cs" caret="6112" fromTop="2" />
+      <File id="57FF07E1-837C-4A33-BBEC-0436B670C4C5/f:MainViewModelTest.cs" caret="6366" fromTop="1" />
+      <File id="57FF07E1-837C-4A33-BBEC-0436B670C4C5/f:MainViewModelTest.cs" caret="6668" fromTop="10" />
+      <File id="57FF07E1-837C-4A33-BBEC-0436B670C4C5/f:MainViewModelTest.cs" caret="7456" fromTop="24" />
+      <File id="57FF07E1-837C-4A33-BBEC-0436B670C4C5/f:MainViewModelTest.cs" caret="7482" fromTop="25" />
+      <File id="57FF07E1-837C-4A33-BBEC-0436B670C4C5/f:MainViewModelTest.cs" caret="6972" fromTop="8" />
+    </RecentEdits>
+  </RecentFiles>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerMSTest>
+    <UseTestRunConfigFromMetadataFile>False</UseTestRunConfigFromMetadataFile>
+  </UnitTestRunnerMSTest>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="LightSteelBlue" priority="0" />
+      <Item value="OrangeRed" priority="0" />
+      <Item value="Yellow" priority="0" />
+      <Item value="Bold" priority="0" />
+      <Item value="Top" priority="0" />
+      <Item value="private" priority="8" />
+      <Item value="string" priority="40" />
+      <Item value="display" priority="18" />
+      <Item value="value" priority="1" />
+      <Item value="true" priority="3" />
+      <Item value="Display" priority="21" />
+      <Item value="if" priority="19" />
+      <Item value="object" priority="3" />
+      <Item value="sender" priority="1" />
+      <Item value="CalculationDataViewModel" priority="0" />
+      <Item value="CalculationModel" priority="4" />
+      <Item value="OperationEnum" priority="0" />
+      <Item value="DelegateCommand" priority="0" />
+      <Item value="this" priority="5" />
+      <Item value="new" priority="3" />
+      <Item value="operation" priority="8" />
+      <Item value="ViewModels" priority="1" />
+      <Item value="MainViewModel" priority="1" />
+      <Item value="vm" priority="17" />
+      <Item value="ITableMapping" priority="0" />
+      <Item value="OnPropertyChanged" priority="0" />
+      <Item value="else" priority="10" />
+      <Item value="return" priority="5" />
+      <Item value="number" priority="0" />
+      <Item value="FirstOperand" priority="15" />
+      <Item value="Operation" priority="14" />
+      <Item value="lastOperation" priority="2" />
+      <Item value="switch" priority="2" />
+      <Item value="case" priority="8" />
+      <Item value="break" priority="5" />
+      <Item value="LastOperation" priority="3" />
+      <Item value="default" priority="0" />
+      <Item value="button" priority="1" />
+      <Item value="SecondOperand" priority="1" />
+      <Item value="calculation" priority="0" />
+      <Item value="Result" priority="7" />
+      <Item value="bool" priority="0" />
+      <Item value="false" priority="2" />
+      <Item value="NewDisplayRequired" priority="3" />
+      <Item value="newDisplayRequired" priority="2" />
+      <Item value="FullExpression" priority="2" />
+      <Item value="D1" priority="0" />
+      <Item value="try" priority="6" />
+      <Item value="Convert" priority="0" />
+      <Item value="catch" priority="5" />
+      <Item value="Exception" priority="6" />
+      <Item value="ex" priority="5" />
+      <Item value="Models" priority="1" />
+      <Item value="Assert" priority="8" />
+      <Item value="model" priority="3" />
+      <Item value="result" priority="4" />
+      <Item value="InvalidProgramException" priority="0" />
+      <Item value="throw" priority="3" />
+      <Item value="ArgumentException" priority="4" />
+      <Item value="void" priority="2" />
+      <Item value="operand" priority="0" />
+      <Item value="operaion" priority="0" />
+      <Item value="ValidateOperand" priority="3" />
+      <Item value="firstOperand" priority="0" />
+      <Item value="secondOperand" priority="0" />
+      <Item value="ValidateOperation" priority="0" />
+      <Item value="AssertFailedException" priority="0" />
+      <Item value="DegreeToRadian" priority="2" />
+      <Item value="EventLogEntryType" priority="0" />
+      <Item value="message" priority="0" />
+      <Item value="aboutCommand" priority="0" />
+      <Item value="ExpectedExceptionAttribute" priority="0" />
+      <Item value="ExpectedException" priority="1" />
+      <Item value="typeof" priority="4" />
+      <Item value="GetType" priority="0" />
+      <Item value="FormatException" priority="1" />
+      <Item value="CalculatorViewModel" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Controls.TextBox">
+      <Item value="TextAlignment" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Controls.Button">
+      <Item value="Name" priority="0" />
+      <Item value="CommandParameter" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Calculator.Models.CalculationModel+OperationEnum">
+      <Item value="None" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Calculator.ViewModels.MainViewModel">
+      <Item value="calculation" priority="0" />
+      <Item value="Display" priority="0" />
+      <Item value="display" priority="0" />
+      <Item value="FirstOperand" priority="0" />
+      <Item value="SecondOperand" priority="0" />
+      <Item value="lastOperation" priority="0" />
+      <Item value="Operation" priority="0" />
+      <Item value="fullExpression" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.String">
+      <Item value="ToString" priority="0" />
+      <Item value="Contains" priority="2" />
+      <Item value="Remove" priority="1" />
+      <Item value="IndexOf" priority="0" />
+      <Item value="Substring" priority="0" />
+      <Item value="Length" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.String">
+      <Item value="Empty" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Calculator.Models.CalculationModel">
+      <Item value="CalculateResult" priority="1" />
+      <Item value="FirstOperand" priority="0" />
+      <Item value="SecondOperand" priority="0" />
+      <Item value="Operation" priority="0" />
+      <Item value="Result" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Double">
+      <Item value="ToString" priority="12" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Math">
+      <Item value="Sin" priority="0" />
+      <Item value="Cos" priority="0" />
+      <Item value="Tan" priority="0" />
+      <Item value="Round" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Convert">
+      <Item value="ToDouble" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Exception">
+      <Item value="Message" priority="0" />
+      <Item value="ToString" priority="1" />
+      <Item value="GetType" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Microsoft.VisualStudio.TestTools.UnitTesting.Assert">
+      <Item value="IsTrue" priority="3" />
+      <Item value="AreEqual" priority="5" />
+      <Item value="ReplaceNullChars" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Diagnostics.EventLogEntryType">
+      <Item value="Error" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Calculator.ViewModels.CalculatorViewModel">
+      <Item value="GetType" priority="0" />
+      <Item value="Display" priority="3" />
+      <Item value="Operation" priority="3" />
+      <Item value="LastOperation" priority="0" />
+      <Item value="FullExpression" priority="0" />
+      <Item value="FirstOperand" priority="0" />
+      <Item value="SecondOperand" priority="0" />
+      <Item value="DigitButtonPressCommand" priority="2" />
+      <Item value="OperationButtonPress" priority="2" />
+      <Item value="DigitButtonPress" priority="1" />
+      <Item value="SingularOperationButtonPress" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>

@@ -1,0 +1,13 @@
+C:\Development\Calculator\Calculator\bin\Release\Calculator.exe
+C:\Development\Calculator\Calculator\bin\Release\Calculator.pdb
+C:\Development\Calculator\Calculator\obj\Release\ResolveAssemblyReference.cache
+C:\Development\Calculator\Calculator\obj\Release\Views\CalculatorView.g.cs
+C:\Development\Calculator\Calculator\obj\Release\App.g.cs
+C:\Development\Calculator\Calculator\obj\Release\Calculator_MarkupCompile.cache
+C:\Development\Calculator\Calculator\obj\Release\Calculator_MarkupCompile.lref
+C:\Development\Calculator\Calculator\obj\Release\Views\CalculatorView.baml
+C:\Development\Calculator\Calculator\obj\Release\Calculator.g.resources
+C:\Development\Calculator\Calculator\obj\Release\Calculator.Properties.Resources.resources
+C:\Development\Calculator\Calculator\obj\Release\Calculator.csproj.GenerateResource.Cache
+C:\Development\Calculator\Calculator\obj\Release\Calculator.exe
+C:\Development\Calculator\Calculator\obj\Release\Calculator.pdb
