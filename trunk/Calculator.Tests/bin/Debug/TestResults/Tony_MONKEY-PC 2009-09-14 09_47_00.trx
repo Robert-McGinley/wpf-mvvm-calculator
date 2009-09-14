@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="b3fc16e2-8d29-4941-b4bd-a8ef21c79b4c" name="Tony@MONKEY-PC 2009-09-14 09:47:00" runUser="Monkey-PC\Tony" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2006">
+  <TestRunConfiguration name="Default Run Configuration" id="91aac54f-29cb-40e7-b9e4-c141694baaaf">
+    <Deployment runDeploymentRoot="C:\Development\Calculator\Calculator.Tests\bin\Debug\TestResults\Tony_MONKEY-PC 2009-09-14 09_47_00" />
+    <Hosts skipUnhostableTests="false" />
+    <TestTypeSpecific />
+  </TestRunConfiguration>
+  <ResultSummary outcome="Completed">
+    <Counters total="4" executed="4" passed="4" error="0" failed="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <Times creation="2009-09-14T09:47:00.9890000+01:00" queuing="2009-09-14T09:47:01.9250000+01:00" start="2009-09-14T09:47:02.0750000+01:00" finish="2009-09-14T09:47:02.4960000+01:00" />
+  <TestDefinitions>
+    <UnitTest name="ConstructorTestParams_InitialisesCorrectly" storage="c:\development\calculator\calculator.tests\bin\debug\calculator.tests.dll" id="2ceebad1-e7ab-8451-a17c-6992332f96c9">
+      <Css projectStructure="" iteration="" />
+      <Execution timeOut="1800000" id="09556744-bc69-4a57-93a3-cdf4e59fd7c6" />
+      <Owners>
+        <Owner name="" />
+      </Owners>
+      <TestMethod codeBase="C:/Development/Calculator/Calculator.Tests/bin/Debug/Calculator.Tests.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter" className="Calculator.Tests.CalculationModelTest, Calculator.Tests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="ConstructorTestParams_InitialisesCorrectly" />
+    </UnitTest>
+    <UnitTest name="OperationTest_InvalidArgument" storage="c:\development\calculator\calculator.tests\bin\debug\calculator.tests.dll" id="05d28d50-2f3a-0ffd-856a-43ffcda9702a">
+      <Css projectStructure="" iteration="" />
+      <Execution timeOut="1800000" id="75d85c12-a2cd-4dad-b278-18ba7ef962ee" />
+      <Owners>
+        <Owner name="" />
+      </Owners>
+      <TestMethod codeBase="C:/Development/Calculator/Calculator.Tests/bin/Debug/Calculator.Tests.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter" className="Calculator.Tests.CalculationModelTest, Calculator.Tests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="OperationTest_InvalidArgument" />
+    </UnitTest>
+    <UnitTest name="ConstructorTestNoParams_InitialisesCorrectly" storage="c:\development\calculator\calculator.tests\bin\debug\calculator.tests.dll" id="1ea68370-49a0-1703-37b1-34e96d5ea1dc">
+      <Css projectStructure="" iteration="" />
+      <Execution timeOut="1800000" id="d612c250-357c-446d-8da3-160b756a35ab" />
+      <Owners>
+        <Owner name="" />
+      </Owners>
+      <TestMethod codeBase="C:/Development/Calculator/Calculator.Tests/bin/Debug/Calculator.Tests.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter" className="Calculator.Tests.CalculationModelTest, Calculator.Tests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="ConstructorTestNoParams_InitialisesCorrectly" />
+    </UnitTest>
+    <UnitTest name="OperationTest_AddsCorrectly" storage="c:\development\calculator\calculator.tests\bin\debug\calculator.tests.dll" id="789e4d8d-8cae-d3e4-e44f-8c4a3c580c2d">
+      <Css projectStructure="" iteration="" />
+      <Execution timeOut="1800000" id="1383d079-dc86-4eac-bcfe-4a315e784652" />
+      <Owners>
+        <Owner name="" />
+      </Owners>
+      <TestMethod codeBase="C:/Development/Calculator/Calculator.Tests/bin/Debug/Calculator.Tests.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter" className="Calculator.Tests.CalculationModelTest, Calculator.Tests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="OperationTest_AddsCorrectly" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="1ea68370-49a0-1703-37b1-34e96d5ea1dc" executionId="d612c250-357c-446d-8da3-160b756a35ab" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="2ceebad1-e7ab-8451-a17c-6992332f96c9" executionId="09556744-bc69-4a57-93a3-cdf4e59fd7c6" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="789e4d8d-8cae-d3e4-e44f-8c4a3c580c2d" executionId="1383d079-dc86-4eac-bcfe-4a315e784652" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="05d28d50-2f3a-0ffd-856a-43ffcda9702a" executionId="75d85c12-a2cd-4dad-b278-18ba7ef962ee" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="d612c250-357c-446d-8da3-160b756a35ab" testId="1ea68370-49a0-1703-37b1-34e96d5ea1dc" testName="ConstructorTestNoParams_InitialisesCorrectly" computerName="MONKEY-PC" duration="00:00:00.0587749" startTime="2009-09-14T09:47:02.1170000+01:00" endTime="2009-09-14T09:47:02.3820000+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d">
+      <Output>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="09556744-bc69-4a57-93a3-cdf4e59fd7c6" testId="2ceebad1-e7ab-8451-a17c-6992332f96c9" testName="ConstructorTestParams_InitialisesCorrectly" computerName="MONKEY-PC" duration="00:00:00.0017352" startTime="2009-09-14T09:47:02.4080000+01:00" endTime="2009-09-14T09:47:02.4140000+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d">
+      <Output>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="1383d079-dc86-4eac-bcfe-4a315e784652" testId="789e4d8d-8cae-d3e4-e44f-8c4a3c580c2d" testName="OperationTest_AddsCorrectly" computerName="MONKEY-PC" duration="00:00:00.0031967" startTime="2009-09-14T09:47:02.4170000+01:00" endTime="2009-09-14T09:47:02.4240000+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d">
+      <Output>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="75d85c12-a2cd-4dad-b278-18ba7ef962ee" testId="05d28d50-2f3a-0ffd-856a-43ffcda9702a" testName="OperationTest_InvalidArgument" computerName="MONKEY-PC" duration="00:00:00.0030431" startTime="2009-09-14T09:47:02.4260000+01:00" endTime="2009-09-14T09:47:02.4330000+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d">
+      <Output>
+      </Output>
+    </UnitTestResult>
+  </Results>
+</TestRun>

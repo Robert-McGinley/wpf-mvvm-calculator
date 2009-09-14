@@ -1,0 +1,7 @@
+C:\Development\Calculator\Calculator.Tests\bin\Debug\Calculator.Tests.dll
+C:\Development\Calculator\Calculator.Tests\bin\Debug\Calculator.Tests.pdb
+C:\Development\Calculator\Calculator.Tests\bin\Debug\Calculator.exe
+C:\Development\Calculator\Calculator.Tests\bin\Debug\Calculator.pdb
+C:\Development\Calculator\Calculator.Tests\obj\Debug\ResolveAssemblyReference.cache
+C:\Development\Calculator\Calculator.Tests\obj\Debug\Calculator.Tests.dll
+C:\Development\Calculator\Calculator.Tests\obj\Debug\Calculator.Tests.pdb

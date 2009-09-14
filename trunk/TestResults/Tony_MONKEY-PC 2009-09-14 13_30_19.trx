@@ -1,0 +1,232 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="6c740720-8ba4-40a1-a8c6-a1563814e88a" name="Tony@MONKEY-PC 2009-09-14 13:30:19" runUser="Monkey-PC\Tony" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2006">
+  <TestRunConfiguration name="Default Run Configuration" id="60f08dde-e69b-4078-8003-adec4539d255">
+    <Deployment runDeploymentRoot="C:\Development\Calculator\TestResults\Tony_MONKEY-PC 2009-09-14 13_30_19">
+      <DeploymentItem filename="C:\Development\Calculator\Calculator\bin\Release\Calculator.exe" />
+    </Deployment>
+    <Hosts skipUnhostableTests="false" />
+    <TestTypeSpecific />
+  </TestRunConfiguration>
+  <ResultSummary outcome="Completed">
+    <Counters total="16" executed="16" passed="16" error="0" failed="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <Times creation="2009-09-14T13:30:19.4528269+01:00" queuing="2009-09-14T13:30:23.3998269+01:00" start="2009-09-14T13:30:23.8988269+01:00" finish="2009-09-14T13:30:24.9978269+01:00" />
+  <TestDefinitions>
+    <UnitTest name="OperationTest_TangentsCorrectly" storage="c:\development\calculator\calculator.tests\bin\release\calculator.tests.dll" id="d5873593-cfb8-6824-8964-c23ced09c17a">
+      <Css projectStructure="" iteration="" />
+      <Owners>
+        <Owner name="" />
+      </Owners>
+      <Execution id="4c5f5ef0-409f-43b3-8cd8-de6c3cf2dc68" />
+      <TestMethod codeBase="C:\Development\Calculator\Calculator.Tests\bin\Release\Calculator.Tests.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Calculator.Tests.CalculationModelTest, Calculator.Tests" name="OperationTest_TangentsCorrectly" />
+    </UnitTest>
+    <UnitTest name="OperationTest_FormatException" storage="c:\development\calculator\calculator.tests\bin\release\calculator.tests.dll" id="d38db7fc-ee37-a13f-4ea5-f7a048ee415e">
+      <Css projectStructure="" iteration="" />
+      <Owners>
+        <Owner name="" />
+      </Owners>
+      <Execution id="452b0609-e717-485f-990c-a084751b0ede" />
+      <TestMethod codeBase="C:\Development\Calculator\Calculator.Tests\bin\Release\Calculator.Tests.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Calculator.Tests.CalculationModelTest, Calculator.Tests" name="OperationTest_FormatException" />
+    </UnitTest>
+    <UnitTest name="OperationTest_ArgumentException" storage="c:\development\calculator\calculator.tests\bin\release\calculator.tests.dll" id="4505604b-3792-ded0-9582-e00a29492601">
+      <Css projectStructure="" iteration="" />
+      <Owners>
+        <Owner name="" />
+      </Owners>
+      <Execution id="24ddf01b-dcfb-4ec8-ad76-ab7425987672" />
+      <TestMethod codeBase="C:\Development\Calculator\Calculator.Tests\bin\Release\Calculator.Tests.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Calculator.Tests.CalculationModelTest, Calculator.Tests" name="OperationTest_ArgumentException" />
+    </UnitTest>
+    <UnitTest name="CalculatorViewModel_ValidOperationTestThenClear" storage="c:\development\calculator\calculator.tests\bin\release\calculator.tests.dll" id="d8ed95eb-b316-2da8-3cae-411038f70cc0">
+      <Css projectStructure="" iteration="" />
+      <Owners>
+        <Owner name="" />
+      </Owners>
+      <Execution id="412ac9d0-1a89-4089-bfd3-544aab003cb5" />
+      <TestMethod codeBase="C:\Development\Calculator\Calculator.Tests\bin\Release\Calculator.Tests.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Calculator.Tests.CalculatorViewModelTest, Calculator.Tests" name="CalculatorViewModel_ValidOperationTestThenClear" />
+    </UnitTest>
+    <UnitTest name="OperationTest_SubtractsCorrectly" storage="c:\development\calculator\calculator.tests\bin\release\calculator.tests.dll" id="b096961e-e11c-1e86-c3f3-3e2758bdc26b">
+      <Css projectStructure="" iteration="" />
+      <Owners>
+        <Owner name="" />
+      </Owners>
+      <Execution id="9aa96cf5-0516-4e20-8f68-03d30450207a" />
+      <TestMethod codeBase="C:\Development\Calculator\Calculator.Tests\bin\Release\Calculator.Tests.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Calculator.Tests.CalculationModelTest, Calculator.Tests" name="OperationTest_SubtractsCorrectly" />
+    </UnitTest>
+    <UnitTest name="ConstructorTestNoParams_InitialisesCorrectly" storage="c:\development\calculator\calculator.tests\bin\release\calculator.tests.dll" id="1ea68370-49a0-1703-37b1-34e96d5ea1dc">
+      <Css projectStructure="" iteration="" />
+      <Owners>
+        <Owner name="" />
+      </Owners>
+      <Execution id="ddbd6bff-fc1c-4cba-993a-9f48a9ad806f" />
+      <TestMethod codeBase="C:\Development\Calculator\Calculator.Tests\bin\Release\Calculator.Tests.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Calculator.Tests.CalculationModelTest, Calculator.Tests" name="ConstructorTestNoParams_InitialisesCorrectly" />
+    </UnitTest>
+    <UnitTest name="CalculatorViewModel_CompositeOperationTestThenClear" storage="c:\development\calculator\calculator.tests\bin\release\calculator.tests.dll" id="c3a8398a-b87b-5c11-569f-fc79187107d4">
+      <Css projectStructure="" iteration="" />
+      <Owners>
+        <Owner name="" />
+      </Owners>
+      <Execution id="f5e9ab46-78b1-48d5-861f-033577292415" />
+      <TestMethod codeBase="C:\Development\Calculator\Calculator.Tests\bin\Release\Calculator.Tests.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Calculator.Tests.CalculatorViewModelTest, Calculator.Tests" name="CalculatorViewModel_CompositeOperationTestThenClear" />
+    </UnitTest>
+    <UnitTest name="OperationTest_SinesCorrectly" storage="c:\development\calculator\calculator.tests\bin\release\calculator.tests.dll" id="b66a022c-f0b2-219c-997a-1bbac65eafee">
+      <Css projectStructure="" iteration="" />
+      <Owners>
+        <Owner name="" />
+      </Owners>
+      <Execution id="f35dbb26-2434-47b3-a2cc-796fcef2b2de" />
+      <TestMethod codeBase="C:\Development\Calculator\Calculator.Tests\bin\Release\Calculator.Tests.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Calculator.Tests.CalculationModelTest, Calculator.Tests" name="OperationTest_SinesCorrectly" />
+    </UnitTest>
+    <UnitTest name="CalculatorViewModel_InValidOperationTest" storage="c:\development\calculator\calculator.tests\bin\release\calculator.tests.dll" id="f3183cf6-c86a-0e45-51b1-c7b9abf21324">
+      <Css projectStructure="" iteration="" />
+      <Owners>
+        <Owner name="" />
+      </Owners>
+      <Execution id="4d2a5457-3f8e-46f7-995c-2ab39bf96190" />
+      <TestMethod codeBase="C:\Development\Calculator\Calculator.Tests\bin\Release\Calculator.Tests.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Calculator.Tests.CalculatorViewModelTest, Calculator.Tests" name="CalculatorViewModel_InValidOperationTest" />
+    </UnitTest>
+    <UnitTest name="CalculatorViewModel_ValidOperationTest" storage="c:\development\calculator\calculator.tests\bin\release\calculator.tests.dll" id="76606d60-3ab2-93ea-c4e4-fabaddf09056">
+      <Css projectStructure="" iteration="" />
+      <Owners>
+        <Owner name="" />
+      </Owners>
+      <Execution id="e6fe2bdf-a63d-498d-b50f-d7c1e51fa625" />
+      <TestMethod codeBase="C:\Development\Calculator\Calculator.Tests\bin\Release\Calculator.Tests.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Calculator.Tests.CalculatorViewModelTest, Calculator.Tests" name="CalculatorViewModel_ValidOperationTest" />
+    </UnitTest>
+    <UnitTest name="OperationTest_AddsCorrectly" storage="c:\development\calculator\calculator.tests\bin\release\calculator.tests.dll" id="789e4d8d-8cae-d3e4-e44f-8c4a3c580c2d">
+      <Css projectStructure="" iteration="" />
+      <Owners>
+        <Owner name="" />
+      </Owners>
+      <Execution id="17f58127-1378-40a0-b4f6-a18491ee851e" />
+      <TestMethod codeBase="C:\Development\Calculator\Calculator.Tests\bin\Release\Calculator.Tests.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Calculator.Tests.CalculationModelTest, Calculator.Tests" name="OperationTest_AddsCorrectly" />
+    </UnitTest>
+    <UnitTest name="ConstructorTestParams_InitialisesCorrectly" storage="c:\development\calculator\calculator.tests\bin\release\calculator.tests.dll" id="2ceebad1-e7ab-8451-a17c-6992332f96c9">
+      <Css projectStructure="" iteration="" />
+      <Owners>
+        <Owner name="" />
+      </Owners>
+      <Execution id="f10e027a-03ab-4b20-8648-35a6f7809b62" />
+      <TestMethod codeBase="C:\Development\Calculator\Calculator.Tests\bin\Release\Calculator.Tests.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Calculator.Tests.CalculationModelTest, Calculator.Tests" name="ConstructorTestParams_InitialisesCorrectly" />
+    </UnitTest>
+    <UnitTest name="OperationTest_CosinesCorrectly" storage="c:\development\calculator\calculator.tests\bin\release\calculator.tests.dll" id="d988fa12-8b5b-e1bd-b503-64221edf59ec">
+      <Css projectStructure="" iteration="" />
+      <Owners>
+        <Owner name="" />
+      </Owners>
+      <Execution id="08fd6e39-5c09-427f-9e94-28a3bb02cc0d" />
+      <TestMethod codeBase="C:\Development\Calculator\Calculator.Tests\bin\Release\Calculator.Tests.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Calculator.Tests.CalculationModelTest, Calculator.Tests" name="OperationTest_CosinesCorrectly" />
+    </UnitTest>
+    <UnitTest name="OperationTest_MultipliesCorrectly" storage="c:\development\calculator\calculator.tests\bin\release\calculator.tests.dll" id="1d819112-e673-6637-266a-58620acfa486">
+      <Css projectStructure="" iteration="" />
+      <Owners>
+        <Owner name="" />
+      </Owners>
+      <Execution id="c2af2f2a-5399-4feb-b5b5-0af5a88f5b91" />
+      <TestMethod codeBase="C:\Development\Calculator\Calculator.Tests\bin\Release\Calculator.Tests.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Calculator.Tests.CalculationModelTest, Calculator.Tests" name="OperationTest_MultipliesCorrectly" />
+    </UnitTest>
+    <UnitTest name="OperationTest_DividesCorrectly" storage="c:\development\calculator\calculator.tests\bin\release\calculator.tests.dll" id="cc1caa8c-d539-a3bb-f5ad-447b8115fae3">
+      <Css projectStructure="" iteration="" />
+      <Owners>
+        <Owner name="" />
+      </Owners>
+      <Execution id="51f9d94e-ffc2-4812-90b5-90924d77de30" />
+      <TestMethod codeBase="C:\Development\Calculator\Calculator.Tests\bin\Release\Calculator.Tests.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Calculator.Tests.CalculationModelTest, Calculator.Tests" name="OperationTest_DividesCorrectly" />
+    </UnitTest>
+    <UnitTest name="CalculatorViewModel_ConstructorTest" storage="c:\development\calculator\calculator.tests\bin\release\calculator.tests.dll" id="7c5dadb9-d76c-eeb0-f56e-4d7780cd183f">
+      <Css projectStructure="" iteration="" />
+      <Owners>
+        <Owner name="" />
+      </Owners>
+      <Execution id="9ed63b90-62ab-4706-835c-348c8e18eb39" />
+      <TestMethod codeBase="C:\Development\Calculator\Calculator.Tests\bin\Release\Calculator.Tests.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Calculator.Tests.CalculatorViewModelTest, Calculator.Tests" name="CalculatorViewModel_ConstructorTest" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="1d819112-e673-6637-266a-58620acfa486" executionId="c2af2f2a-5399-4feb-b5b5-0af5a88f5b91" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="1ea68370-49a0-1703-37b1-34e96d5ea1dc" executionId="ddbd6bff-fc1c-4cba-993a-9f48a9ad806f" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="2ceebad1-e7ab-8451-a17c-6992332f96c9" executionId="f10e027a-03ab-4b20-8648-35a6f7809b62" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="4505604b-3792-ded0-9582-e00a29492601" executionId="24ddf01b-dcfb-4ec8-ad76-ab7425987672" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="76606d60-3ab2-93ea-c4e4-fabaddf09056" executionId="e6fe2bdf-a63d-498d-b50f-d7c1e51fa625" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="789e4d8d-8cae-d3e4-e44f-8c4a3c580c2d" executionId="17f58127-1378-40a0-b4f6-a18491ee851e" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="7c5dadb9-d76c-eeb0-f56e-4d7780cd183f" executionId="9ed63b90-62ab-4706-835c-348c8e18eb39" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="b096961e-e11c-1e86-c3f3-3e2758bdc26b" executionId="9aa96cf5-0516-4e20-8f68-03d30450207a" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="b66a022c-f0b2-219c-997a-1bbac65eafee" executionId="f35dbb26-2434-47b3-a2cc-796fcef2b2de" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="c3a8398a-b87b-5c11-569f-fc79187107d4" executionId="f5e9ab46-78b1-48d5-861f-033577292415" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="cc1caa8c-d539-a3bb-f5ad-447b8115fae3" executionId="51f9d94e-ffc2-4812-90b5-90924d77de30" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="d38db7fc-ee37-a13f-4ea5-f7a048ee415e" executionId="452b0609-e717-485f-990c-a084751b0ede" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="d5873593-cfb8-6824-8964-c23ced09c17a" executionId="4c5f5ef0-409f-43b3-8cd8-de6c3cf2dc68" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="d8ed95eb-b316-2da8-3cae-411038f70cc0" executionId="412ac9d0-1a89-4089-bfd3-544aab003cb5" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="d988fa12-8b5b-e1bd-b503-64221edf59ec" executionId="08fd6e39-5c09-427f-9e94-28a3bb02cc0d" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="f3183cf6-c86a-0e45-51b1-c7b9abf21324" executionId="4d2a5457-3f8e-46f7-995c-2ab39bf96190" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="c2af2f2a-5399-4feb-b5b5-0af5a88f5b91" testId="1d819112-e673-6637-266a-58620acfa486" testName="OperationTest_MultipliesCorrectly" computerName="MONKEY-PC" duration="00:00:00.0453578" startTime="2009-09-14T13:30:24.1758269+01:00" endTime="2009-09-14T13:30:24.4958269+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d">
+      <Output>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="ddbd6bff-fc1c-4cba-993a-9f48a9ad806f" testId="1ea68370-49a0-1703-37b1-34e96d5ea1dc" testName="ConstructorTestNoParams_InitialisesCorrectly" computerName="MONKEY-PC" duration="00:00:00.0006259" startTime="2009-09-14T13:30:24.5048269+01:00" endTime="2009-09-14T13:30:24.5128269+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d">
+      <Output>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="f10e027a-03ab-4b20-8648-35a6f7809b62" testId="2ceebad1-e7ab-8451-a17c-6992332f96c9" testName="ConstructorTestParams_InitialisesCorrectly" computerName="MONKEY-PC" duration="00:00:00.0015895" startTime="2009-09-14T13:30:24.5188269+01:00" endTime="2009-09-14T13:30:24.5288269+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d">
+      <Output>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="24ddf01b-dcfb-4ec8-ad76-ab7425987672" testId="4505604b-3792-ded0-9582-e00a29492601" testName="OperationTest_ArgumentException" computerName="MONKEY-PC" duration="00:00:00.0083891" startTime="2009-09-14T13:30:24.5348269+01:00" endTime="2009-09-14T13:30:24.5518269+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d">
+      <Output>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="e6fe2bdf-a63d-498d-b50f-d7c1e51fa625" testId="76606d60-3ab2-93ea-c4e4-fabaddf09056" testName="CalculatorViewModel_ValidOperationTest" computerName="MONKEY-PC" duration="00:00:00.0055657" startTime="2009-09-14T13:30:24.5578269+01:00" endTime="2009-09-14T13:30:24.5708269+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d">
+      <Output>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="17f58127-1378-40a0-b4f6-a18491ee851e" testId="789e4d8d-8cae-d3e4-e44f-8c4a3c580c2d" testName="OperationTest_AddsCorrectly" computerName="MONKEY-PC" duration="00:00:00.0005467" startTime="2009-09-14T13:30:24.5778269+01:00" endTime="2009-09-14T13:30:24.5868269+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d">
+      <Output>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="9ed63b90-62ab-4706-835c-348c8e18eb39" testId="7c5dadb9-d76c-eeb0-f56e-4d7780cd183f" testName="CalculatorViewModel_ConstructorTest" computerName="MONKEY-PC" duration="00:00:00.0007197" startTime="2009-09-14T13:30:24.5928269+01:00" endTime="2009-09-14T13:30:24.6008269+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d">
+      <Output>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="9aa96cf5-0516-4e20-8f68-03d30450207a" testId="b096961e-e11c-1e86-c3f3-3e2758bdc26b" testName="OperationTest_SubtractsCorrectly" computerName="MONKEY-PC" duration="00:00:00.0005810" startTime="2009-09-14T13:30:24.6068269+01:00" endTime="2009-09-14T13:30:24.6148269+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d">
+      <Output>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="f35dbb26-2434-47b3-a2cc-796fcef2b2de" testId="b66a022c-f0b2-219c-997a-1bbac65eafee" testName="OperationTest_SinesCorrectly" computerName="MONKEY-PC" duration="00:00:00.0007288" startTime="2009-09-14T13:30:24.6408269+01:00" endTime="2009-09-14T13:30:24.6498269+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d">
+      <Output>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="f5e9ab46-78b1-48d5-861f-033577292415" testId="c3a8398a-b87b-5c11-569f-fc79187107d4" testName="CalculatorViewModel_CompositeOperationTestThenClear" computerName="MONKEY-PC" duration="00:00:00.0017574" startTime="2009-09-14T13:30:24.6558269+01:00" endTime="2009-09-14T13:30:24.6668269+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d">
+      <Output>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="51f9d94e-ffc2-4812-90b5-90924d77de30" testId="cc1caa8c-d539-a3bb-f5ad-447b8115fae3" testName="OperationTest_DividesCorrectly" computerName="MONKEY-PC" duration="00:00:00.0005410" startTime="2009-09-14T13:30:24.6728269+01:00" endTime="2009-09-14T13:30:24.6798269+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d">
+      <Output>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="452b0609-e717-485f-990c-a084751b0ede" testId="d38db7fc-ee37-a13f-4ea5-f7a048ee415e" testName="OperationTest_FormatException" computerName="MONKEY-PC" duration="00:00:00.0128348" startTime="2009-09-14T13:30:24.6878269+01:00" endTime="2009-09-14T13:30:24.7078269+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d">
+      <Output>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="4c5f5ef0-409f-43b3-8cd8-de6c3cf2dc68" testId="d5873593-cfb8-6824-8964-c23ced09c17a" testName="OperationTest_TangentsCorrectly" computerName="MONKEY-PC" duration="00:00:00.0004848" startTime="2009-09-14T13:30:24.7148269+01:00" endTime="2009-09-14T13:30:24.7218269+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d">
+      <Output>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="412ac9d0-1a89-4089-bfd3-544aab003cb5" testId="d8ed95eb-b316-2da8-3cae-411038f70cc0" testName="CalculatorViewModel_ValidOperationTestThenClear" computerName="MONKEY-PC" duration="00:00:00.0013290" startTime="2009-09-14T13:30:24.7278269+01:00" endTime="2009-09-14T13:30:24.7358269+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d">
+      <Output>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="08fd6e39-5c09-427f-9e94-28a3bb02cc0d" testId="d988fa12-8b5b-e1bd-b503-64221edf59ec" testName="OperationTest_CosinesCorrectly" computerName="MONKEY-PC" duration="00:00:00.0005241" startTime="2009-09-14T13:30:24.7418269+01:00" endTime="2009-09-14T13:30:24.7838269+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d">
+      <Output>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="4d2a5457-3f8e-46f7-995c-2ab39bf96190" testId="f3183cf6-c86a-0e45-51b1-c7b9abf21324" testName="CalculatorViewModel_InValidOperationTest" computerName="MONKEY-PC" duration="00:00:00.0064085" startTime="2009-09-14T13:30:24.7898269+01:00" endTime="2009-09-14T13:30:24.8038269+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d">
+      <Output>
+      </Output>
+    </UnitTestResult>
+  </Results>
+</TestRun>
